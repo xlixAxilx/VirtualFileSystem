@@ -50,7 +50,7 @@ public class Drive {
 
   /**
     * Checks if a file exists in the virtual drive.
-    * @param name The name of the file.
+    * @param name The name of the file!
     * @return true if the file exists, false otherwise.
   */
   public boolean fileExists(char name) {
